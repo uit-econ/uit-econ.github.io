@@ -1,12 +1,29 @@
 
 <div id="container-grid">
   
-  {% include portfolio_grid.html %}
+  <div class="grids">
+       {% include portfolio_grid.html %}
+  </div>
+  
+  <div class="grids">
   {% include portfolio_grid2.html %}
+  </div>
+  
+  <div class="grids">
   {% include portfolio_grid3.html %}
+  </div>
+  
+  <div class="grids">
   {% include portfolio_grid4.html %}
+  </div>
+  
+  <div class="grids">
   {% include portfolio_grid5.html %}
+  </div>
+  
+  <div class="grids">
   {% include portfolio_grid6.html %}
+  </div>
   
 </div>
 
@@ -20,5 +37,8 @@
     flex-wrap:wrap;
   }
 
+.grids{
+  max-width:800px;
+  }
   
 </style>
