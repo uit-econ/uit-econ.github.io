@@ -1,11 +1,11 @@
 ---
-title: Preben Aspvik
+title: Derek John Clark
 subtitle: Sok1003, Sok1004, Sok1005, Sok1006, Sok1007
 image: https://github.com/uit-econ/hovedside-demo3/blob/main/assets/img/writing.jpg?raw=true
 category: faglærer
 
 caption:
-  title: Preben Aspvik
+  title: Derek John Clark
   subtitle: Sok1003, Sok1004, Sok1005, Sok1006, Sok1007
   thumbnail: https://github.com/uit-econ/hovedside-demo3/blob/main/assets/img/writing.jpg?raw=true
 ---
