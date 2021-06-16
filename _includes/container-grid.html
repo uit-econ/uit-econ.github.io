@@ -1,7 +1,24 @@
 
-{% include portfolio_grid.html %}
-{% include portfolio_grid2.html %}
-{% include portfolio_grid3.html %}
-{% include portfolio_grid4.html %}
-{% include portfolio_grid5.html %}
-{% include portfolio_grid6.html %}
+<div id="container-grid">
+  
+  {% include portfolio_grid.html %}
+  {% include portfolio_grid2.html %}
+  {% include portfolio_grid3.html %}
+  {% include portfolio_grid4.html %}
+  {% include portfolio_grid5.html %}
+  {% include portfolio_grid6.html %}
+  
+</div>
+
+
+
+<style>
+  
+#container-grid{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+  }
+
+  
+</style>
