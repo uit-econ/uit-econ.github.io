@@ -30,8 +30,8 @@
   
   <!-- Header -->
   <header class="masthead" style="height:100vh">
-    <div class="container" style="padding-top:50vh;">
-      <div class="intro-text">
+    <div class="container">
+      <div class="intro-text" style="padding-top:50vh;">
 	  {%- if site.data.sitetext[site.locale].header.title -%}
         <div class="intro-lead-in">{{ site.data.sitetext[site.locale].header.title | markdownify }}</div>
 	  {%- endif -%}
