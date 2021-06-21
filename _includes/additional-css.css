@@ -1,1 +1,25 @@
 
+
+<style>
+#faglaerer-caption{
+	background-color:rgba(0,0,0,0) !important;
+	border: 2px solid;
+	color:white;
+	}
+
+.img-fluid{	
+    width: 100%;
+    height: 375px;
+    object-fit: cover;	
+	}
+	
+	#faglaerer-linje{
+		border-bottom: 3px solid;
+		margin-left: 325px;
+    		margin-right: 325px;
+		color:white;
+	
+	}
+
+
+</style>
