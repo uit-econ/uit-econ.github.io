@@ -29,8 +29,8 @@
   <!-- End Navigation -->
   
   <!-- Header -->
-  <header class="masthead" style="height:100vh;">
-    <div class="container" style:"width:100%;">
+  <header class="masthead" id="masthead">
+    <div class="container" id="masthead-container">
       <div class="intro-text" style="padding-top:33vh;">
 	  {%- if site.data.sitetext[site.locale].header.title -%}
         <div class="intro-lead-in">{{ site.data.sitetext[site.locale].header.title | markdownify }}</div>
