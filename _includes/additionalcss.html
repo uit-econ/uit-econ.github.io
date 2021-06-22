@@ -47,7 +47,7 @@ body{
 	}	
 	
 	
-#programbeskrivelse-container{
+#{{ site.data.sitetext[site.locale].programbeskrivelse.section | default: "programbeskrivelse" }}{
     text-align:center; 
     padding-top: 100px; 
     background-color: {{ site.data.style.highlight }};
