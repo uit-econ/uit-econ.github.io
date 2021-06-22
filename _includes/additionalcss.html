@@ -23,8 +23,16 @@
 	
    .navbar{
 	  display:none;  
-   }	   
- 	
+   }
+   	
+  .lds-dual-ring {
+	  display:block;
+	  width: 320px;
+	  height: 320px;
+	  margin-left:auto;
+	  margin-right:auto;	
+}
+	
 }
 
 body{
@@ -162,8 +170,8 @@ body{
   height: 320px;
   margin-left:auto;
   margin-right:auto;	
-
 }
+	
 .lds-dual-ring:after {
   content: " ";
   display: block;
@@ -176,8 +184,8 @@ body{
   animation: lds-dual-ring 1.2s linear infinite;
   margin-left:auto;
   margin-right:auto;	
-	
 }
+	
 @keyframes lds-dual-ring {
   0% {
     transform: rotate(0deg);
