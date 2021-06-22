@@ -76,10 +76,10 @@ body{
 	}	
 	
 	
-#{{ site.data.sitetext[site.locale].programbeskrivelse.section | default: "programbeskrivelse" }}{
+#$programbeskrivelse {
     text-align:center; 
     padding-top: 100px; 
-    background-color: {{ site.data.style.highlight }};
+    background-color: yellow;
     padding-bottom: 50px;
     margin-top: 75px;
     color:white;
@@ -101,7 +101,7 @@ body{
 }
 	
 
-#{{ site.data.sitetext[site.locale].services.section | default: "services" }} {	
+#services{	
 	margin-top:10px; 
 	color:white;
 }	
