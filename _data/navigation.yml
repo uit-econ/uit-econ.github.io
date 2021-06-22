@@ -11,10 +11,16 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Emner"
-      section: portfolio
+    - title: "Programbeskrivelse"
+      section: programbeskrivelse
     - title: "Ressurser"
       section: services
+    - title: "Emner"
+      section: portfolio
+      
+      
+      
+      
       
 en-US:
   <<: *DEFAULT_EN
