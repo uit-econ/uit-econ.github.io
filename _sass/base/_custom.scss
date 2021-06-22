@@ -75,7 +75,7 @@ body{
 
 	}	
 	
-	
+/*	
 #{{ site.data.sitetext[site.locale].programbeskrivelse.section | default: "programbeskrivelse" }}{
     text-align:center; 
     padding-top: 100px; 
@@ -86,7 +86,8 @@ body{
     border-radius:50px;
     width:100%;   
 }	
-	
+*/
+
 #programbeskrivelse-header{
 	font-size: 60px; 
 	margin-bottom:25px; 
@@ -100,12 +101,12 @@ body{
 	
 }
 	
-
+/*
 #{{ site.data.sitetext[site.locale].services.section | default: "services" }} {	
 	margin-top:10px; 
 	color:white;
 }	
-	
+*/	
 	
 	
 #ressurs-linje{
