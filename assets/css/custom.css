@@ -23,14 +23,14 @@
 	
    .fadeOnScrollEmner{
 	  opacity:1;
-	  }	
-	
-
-   
-
-	
+	  }		
 }
 
+
+
+ .navbar{
+	  display:none !important;  
+   }
 
 body{
   min-width:770px;
