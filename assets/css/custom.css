@@ -32,19 +32,19 @@
 		  }
 
 	   #ressurs-linje{
-		border-bottom: 3px solid;
-		margin-left: 200px;
-		margin-right: 200px;
+		border-bottom: 3px solid !important;
+		margin-left: 200px !important;
+		margin-right: 200px !important;
 	}
 
 
 	     #emner-linje{
-		border-bottom: 3px solid;
-			margin-left: 200px;
-			margin-right: 200px;
-			color:white;
-			margin-bottom:20px;
-			margin-top: -30px;
+		border-bottom: 3px solid !important;
+			margin-left: 200px !important;
+			margin-right: 200px !important;
+			color:white !important;
+			margin-bottom:20px!important;
+			margin-top: -30px !important;
 		}
 	
 	
