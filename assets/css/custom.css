@@ -25,14 +25,15 @@
 	  opacity:1;
 	  }	
 	
-   .navbar{
-	  display:none;  
-   }
+
    
 
 	
 }
 
+   .navbar{
+	  display:none;  
+   }
 	
 body{
   min-width:770px;
