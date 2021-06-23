@@ -1,3 +1,6 @@
+
+
+
 .fadeOnScroll{
 	opacity:0;
 }	
@@ -6,31 +9,55 @@
 	opacity:0;
 }	
 	
+
+
+
 @media only screen and (max-width: 993px) {
 	
-  header.masthead .intro-text .intro-heading {
-    font-size:50px !important;
-  }
-
-#programbeskrivelse-header{
-	font-size: 50px !important;
-}
-	
-	
-  .fadeOnScroll{
-	  opacity:1;
+	  header.masthead .intro-text .intro-heading {
+	    font-size:50px !important;
 	  }
+
+	#programbeskrivelse-header{
+		font-size: 50px !important;
+	}
+
+
+	  .fadeOnScroll{
+		  opacity:1;
+		  }
+
+	   .fadeOnScrollEmner{
+		  opacity:1;
+		  }
+
+	   #ressurs-linje{
+		border-bottom: 3px solid;
+		margin-left: 350px;
+		margin-right: 350px;
+	}
+
+
+	     #emner-linje{
+		border-bottom: 3px solid;
+			margin-left: 325px;
+			margin-right: 325px;
+			color:white;
+			margin-bottom:20px;
+			margin-top: -30px;
+		}
 	
-   .fadeOnScrollEmner{
-	  opacity:1;
-	  }		
+	
+	
 }
 
 
 
- .navbar{
-	  display:none !important;  
+.navbar{
+     display:none !important;  
    }
+
+
 
 body{
   min-width:770px;
