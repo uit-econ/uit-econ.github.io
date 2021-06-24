@@ -120,7 +120,10 @@ body{
 	color:white;
 }	
 	
-	
+
+#ressurs-tekst{
+	margin-bottom:75px;
+}
 	
 #ressurs-linje{
 	border-bottom: 3px solid;
