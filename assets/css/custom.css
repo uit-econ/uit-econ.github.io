@@ -85,7 +85,14 @@ body{
 	}	
 	
 #masthead-title{
-	padding-top:33vh;
+	padding-top:10vh;
+	font-size: 50px;
+
+	}
+
+#masthead-text{
+	padding-top:70vh;
+	font-size: 50px;
 
 	}	
 	
