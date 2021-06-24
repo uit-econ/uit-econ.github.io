@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Velkommen til
-    text: Samfunnsøkonomi med datavitenskap 
+    title: Samfunnsøkonomi med datavitenskap
+    text: Bachelor
     button: 
     buttonlink: 
 
