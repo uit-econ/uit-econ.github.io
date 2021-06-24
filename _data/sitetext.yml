@@ -39,6 +39,9 @@ en: &DEFAULT_EN
     text: ""
     section: portfolio
     closebutton: "Lukk emne"
+    
+    
+programbeskrivelse:    
         
 en-US:
   <<: *DEFAULT_EN
