@@ -41,8 +41,7 @@ en: &DEFAULT_EN
     closebutton: "Lukk emne"
     
     
-  programbeskrivelse: "Lorem Ipsum is simply dusimply dumsimply dumsimply dumsimply dumsimply dumsimply dumsimply dum
-  sadasdasdasddasdasdasda"
+  programbeskrivelse: "Lorem Ipsum is simply dusimply dumsimply dumsimply dumsimply dumsimply dumsimply dumsimply dum </br> Lorem ipsum ipsum lorem"
         
 en-US:
   <<: *DEFAULT_EN
