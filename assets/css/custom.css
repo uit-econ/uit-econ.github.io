@@ -87,8 +87,9 @@ body{
 #masthead-title{
 	padding-top:10vh;
 	font-size: 65px;
-	font-weight:700;
+	font-weight:650;
 	text-align:left;
+	margin-left:0px;
 
 	}
 
@@ -102,7 +103,7 @@ body{
 	}
 
 #masthead-text{
-	padding-top:50vh;
+	padding-top:55vh;
 	font-size: 45px;
 
 	}	
