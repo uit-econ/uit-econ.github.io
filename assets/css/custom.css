@@ -87,13 +87,16 @@ body{
 #masthead-title{
 	padding-top:10vh;
 	font-size: 50px;
+	font-weight: 900;
 
 	}
 
 
 
 #masthead-undertitle{
+	padding-top: -5vh;
 	font-size: 50px;
+	font-weight: 900;
 
 	}
 
