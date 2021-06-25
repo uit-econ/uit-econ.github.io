@@ -31,8 +31,8 @@
   <!-- Header -->
   <header class="masthead" id="masthead">
     <div class="container" id="masthead-container">
-      <div class="">
-	      <h1 id="masthead-title">{%- if site.data.sitetext[site.locale].header.title -%} </h1>
+      <div class="" id="masthead-title">
+	      {%- if site.data.sitetext[site.locale].header.title -%} 
         <div class="">{{ site.data.sitetext[site.locale].header.title | markdownify }}</div>
 	  {%- endif -%}
 	  {%- if site.data.sitetext[site.locale].header.text -%}
