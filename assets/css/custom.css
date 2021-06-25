@@ -90,9 +90,17 @@ body{
 
 	}
 
+
+
+#masthead-undertitle{
+	padding-top:15vh;
+	font-size: 50px;
+
+	}
+
 #masthead-text{
 	padding-top:70vh;
-	font-size: 50px;
+	font-size: 45px;
 
 	}	
 	
