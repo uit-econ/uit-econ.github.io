@@ -52,6 +52,8 @@
 }
 
 
+
+
 @media only screen and (max-width: 1600px) {
 	
 	#masthead-title{
@@ -72,6 +74,32 @@
 	}	
 	
 }
+
+
+
+
+@media only screen and (max-width: 1300px) {
+	
+	#masthead-title{
+	font-size: 45px !important;
+	}
+
+
+
+#masthead-undertitle{
+	font-size: 45px !important;
+	
+
+	}
+
+#masthead-text{
+	font-size: 45px !important;
+
+	}	
+	
+}
+
+
 
 
 
