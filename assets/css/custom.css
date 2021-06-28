@@ -81,7 +81,7 @@ body{
 	
 	
 #masthead-container{
-	width:100%;
+	min-width:400px
 	}	
 	
 #masthead-title{
