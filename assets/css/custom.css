@@ -147,6 +147,28 @@
 
 
 
+@media only screen and (max-width: 1061px) {
+	
+	#masthead-title{
+	font-size: 30px !important;
+	}
+
+
+
+#masthead-undertitle{
+	font-size: 30px !important;
+	
+
+	}
+
+#masthead-text{
+	font-size: 30px !important;
+
+	}	
+	
+}
+
+
 
 
 
