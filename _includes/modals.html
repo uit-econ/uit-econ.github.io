@@ -1,6 +1,6 @@
 <!-- Portfolio Modals -->
 {% for project in site.portfolio %}
-  <div class="portfolio-modal modal fade" id="p{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true" onClick="reply_click(this.id)">
+  <div class="portfolio-modal modal fade" id="p{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog">
       <div class="modal-content">
         <div class="close-modal" data-dismiss="modal">
@@ -29,9 +29,4 @@
   </div>
 {% endfor %}
 <!-- End Portfolio Modals -->
-<script>
- function reply_click(clicked_id)
-  {
-      alert(clicked_id);
-  } 
-</script>	
+
