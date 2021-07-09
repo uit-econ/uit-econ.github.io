@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Datakilder"
-        desc: "Se link [Her er link](ressurser/Datakilder.html)"
+        desc: Se link [Her er link](ressurser/Datakilder.md)
         icon: fas fa-database #find more at https://fontawesome.com/icons
       - title: "Nyttige tutorials"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
