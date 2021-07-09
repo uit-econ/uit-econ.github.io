@@ -33,7 +33,7 @@ en: &DEFAULT_EN
         icon: fas fa-book-reader
       - title: "Blogger"
         desc: "Test st test stet"
-        icon: fab fa-angellist
+        icon: fas fa-blog
 
   portfolio:
     title: "Emner"
