@@ -30,7 +30,7 @@ en: &DEFAULT_EN
         icon: fas fa-laptop
       - title: "Populærvitenskapelig litteratur"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-r-project
+        icon: fas fa-book-reader
       - title: "Blogger"
         desc: "Test st test stet"
         icon: fab fa-angellist
