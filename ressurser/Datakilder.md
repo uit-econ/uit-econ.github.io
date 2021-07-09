@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Datakilder
 - SSB statistikkbanken: https://www.ssb.no/statbank/
 - Norges Bank: https://www.norges-bank.no/tema/Statistikk/
