@@ -22,16 +22,16 @@ en: &DEFAULT_EN
     text: ""
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Datakilder"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Nyttige tutorials"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Populærvitenskapelig litteratur"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-r-project
-      - title: "Test test test"
+      - title: "Blogger"
         desc: "Test st test stet"
         icon: fab fa-angellist
 
