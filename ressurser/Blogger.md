@@ -26,7 +26,7 @@
 
 - [Flere blogger fra samfunnsøkonomer:](https://inomics.com/advice/the-top-economics-blogs-50151)
 
-- [Flere her](https://www.intelligenteconomist.com/economics-blogs/)  [og her:](https://blog.feedspot.com/economics_blogs/)  
+- [Flere her](https://www.intelligenteconomist.com/economics-blogs/) --  [og her:](https://blog.feedspot.com/economics_blogs/)  
 
 
 
