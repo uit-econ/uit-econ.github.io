@@ -29,10 +29,10 @@ en: &DEFAULT_EN
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
       - title: "Populærvitenskapelig litteratur"
-        desc: "Se link [Her er link](ressurser/pop-litteratur)"
+        desc: "Se link [Her er link](ressurser/Pop-litteratur)"
         icon: fas fa-book-reader
       - title: "Blogger"
-        desc: "Test st test stet"
+        desc: "Se link [Her er link](ressurser/Blogger"
         icon: fas fa-blog
 
   portfolio:
