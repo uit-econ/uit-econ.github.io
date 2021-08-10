@@ -23,10 +23,10 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Datakilder"
-        desc: "Se link [Her er link](ressurser/Datakilder)"
+        desc: "Datakilder [Her er link](ressurser/Datakilder)"
         icon: fas fa-database #find more at https://fontawesome.com/icons
       - title: "Nyttige tutorials"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "N/A."
         icon: fas fa-laptop
       - title: "Populærvitenskapelig litteratur"
         desc: "Se link [Her er link](ressurser/Pop-litteratur)"
@@ -35,7 +35,7 @@ en: &DEFAULT_EN
         desc: "Se link [Her er link](ressurser/Blogger)"
         icon: fas fa-blog
       - title: "Søkemotorer"
-        desc: "Se link [Her er link](ressurser/Blogger)"
+        desc: "N/A"
         icon: fas fa-search  
 
   portfolio:
