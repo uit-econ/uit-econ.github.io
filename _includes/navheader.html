@@ -1,0 +1,100 @@
+<!-- Navigation -->	
+  <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+    <div class="container">
+	
+	  <a class="navbar-brand js-scroll-trigger" href="#page-top">
+               
+      </a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav text-uppercase ml-auto">
+		  {%- for link in site.data.navigation[site.locale].nav -%}		  <li class="nav-item">
+		  {%- if link.url -%}
+		    <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
+		  {%- else if link.section -%}
+		    <a class="nav-link js-scroll-trigger" href="#{{ link.section }}">{{ link.title }}</a>
+		  {%- else -%}
+		    <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
+		  {%- endif -%}
+          </li>
+		  {% endfor %}
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+<div class="topnav">
+  <a href="#emner-heading">Emner</a>
+  <a href="#services">Ressurser</a>
+</div>
+
+
+
+  <!-- End Navigation -->
+  
+  <!-- Header -->
+  <header class="masthead" id="masthead">
+    <div class="" id="masthead-container">
+	    
+      <div class="" id="masthead-title">
+	 {%- if site.data.sitetext[site.locale].header.title -%} 
+        <div class="">{{ site.data.sitetext[site.locale].header.title | markdownify }}</div>
+	  {%- endif -%}
+	      
+	   <div class="" id="masthead-undertitle">
+	 {%- if site.data.sitetext[site.locale].header.undertitle -%} 
+        <div class="">{{ site.data.sitetext[site.locale].header.undertitle | markdownify }}</div>
+	  {%- endif -%}   
+	      
+	  {%- if site.data.sitetext[site.locale].header.text -%}
+        <div class="" id="masthead-text">{{ site.data.sitetext[site.locale].header.text | markdownify }}</div>
+	  {%- endif -%}
+	      
+	      
+	  {%- if site.data.sitetext[site.locale].header.button -%}
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>
+	  {%- endif -%}
+      </div>
+    </div>
+  </header>
+  <!-- End Header -->
+
+
+
+
+<style>
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color:rgba(51,51,51,0.5);
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  margin-right:50px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+</style>
+	  
