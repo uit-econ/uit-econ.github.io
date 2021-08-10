@@ -34,6 +34,9 @@ en: &DEFAULT_EN
       - title: "Blogger"
         desc: "Se link [Her er link](ressurser/Blogger)"
         icon: fas fa-blog
+      - title: "Søkemotorer"
+        desc: "Se link [Her er link](ressurser/Blogger)"
+        icon: fas fa-search  
 
   portfolio:
     title: "Emner"
