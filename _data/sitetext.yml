@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Datakilder"
-        desc: "Datakilder [Her er link](ressurser/Datakilder)"
+        desc: "[Datakilder](ressurser/Datakilder)"
         icon: fas fa-database #find more at https://fontawesome.com/icons
       - title: "Nyttige tutorials"
         desc: "N/A."
