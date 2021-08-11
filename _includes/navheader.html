@@ -3,24 +3,26 @@
   <!-- Header -->
   <header class="masthead" id="masthead">
     <div class="" id="masthead-container">
-	    
-<div class="topbar">
-  <a href="#services">Ressurser</a>
-  <div class="dropdown">
-    <button class="dropbtn">Emner
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="#">Semester 1</a>
-      <a href="#">Semester 2</a>
-      <a href="#">Semester 3</a>
-    </div>
-  </div>
-</div>
 
-
-	    
+	<!-- Start Navigation -->
+	<div class="topbar">
+	  <a href="#services">Ressurser</a>
+	  <div class="dropdown">
+	    <button class="dropbtn">Emner
+	      <i class="fa fa-caret-down"></i>
+	    </button>
+	    <div class="dropdown-content">
+	      <a href="#semester-heading-1">Semester 1</a>
+	      <a href="#semester-heading-2">Semester 2</a>
+	      <a href="#semester-heading-3">Semester 3</a>
+	      <a href="#semester-heading-4">Semester 4</a>
+	      <a href="#semester-heading-5">Semester 5</a>
+	      <a href="#semester-heading-6">Semester 6</a>	    
+	    </div>
+	  </div>
+	</div>
 	  <!-- End Navigation -->
+	    
 	    
       <div class="" id="masthead-title">
 	 {%- if site.data.sitetext[site.locale].header.title -%} 
@@ -95,7 +97,6 @@
 .dropdown-content {
   display: none;
   position: relative;
-  background-color: rgba(51,51,51,0.7);
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
