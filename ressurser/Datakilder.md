@@ -1,3 +1,4 @@
+{% include ressurser-css.html %}
 
 # Datakilder
 - [SSB statistikkbanken](https://www.ssb.no/statbank/)
