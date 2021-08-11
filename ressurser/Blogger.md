@@ -1,6 +1,14 @@
----
-layout: default
----
+<style>
+body{
+  background-color: #022836;
+  opacity: 1;
+  background-image: radial-gradient(rgba(68, 132, 159, 0.4) 1.5px, #022836 1.6px);
+  background-size: 24px 24px;
+  padding-top:50px;  
+  color:white;
+  }
+</style>
+
 
 # Blogger
 
