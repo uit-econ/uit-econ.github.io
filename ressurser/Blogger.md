@@ -6,7 +6,15 @@ body{
   background-size: 24px 24px;
   padding-top:50px;  
   color:white;
+  
   }
+  
+a{
+color:#F2A900;
+text-decoration:none;
+  }
+  
+  
 </style>
 
 
