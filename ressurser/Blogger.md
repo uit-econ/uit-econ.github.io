@@ -6,6 +6,8 @@ body{
   background-size: 24px 24px;
   padding-top:50px;  
   color:white;
+  display: flex;
+  justify-content: center;
   
   }
   
