@@ -29,10 +29,10 @@ en: &DEFAULT_EN
         desc: "N/A."
         icon: fas fa-laptop
       - title: "Populærvitenskapelig litteratur"
-        desc: "Se link [Her er link](ressurser/Pop-litteratur)"
+        desc: "[Populærvitenskapelig litteratur](ressurser/Pop-litteratur)"
         icon: fas fa-book-reader
       - title: "Blogger"
-        desc: "Se link [Her er link](ressurser/Blogger)"
+        desc: "[Blogger](ressurser/Blogger)"
         icon: fas fa-blog
       - title: "Søkemotorer"
         desc: "N/A"
