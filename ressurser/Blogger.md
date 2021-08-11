@@ -1,4 +1,4 @@
-<link href="assets/css/custom.css" rel="stylesheet">
+{% include ressurser-css.html %}
 
 
 
