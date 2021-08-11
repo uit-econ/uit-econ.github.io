@@ -1,3 +1,5 @@
+{% include ressurser-css.html %}
+
 # Populærvitenskapelig litteratur
 
 - [Kunnskapsbanken Nord-Norge](https://www.kbnn.no/)
