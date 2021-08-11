@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Blogger
 
 - [Espen Sirnes](http://espensirnes.blogspot.com/)
