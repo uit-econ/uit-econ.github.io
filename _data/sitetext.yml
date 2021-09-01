@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         desc: "[Datakilder](ressurser/Datakilder)"
         icon: fas fa-database #find more at https://fontawesome.com/icons
       - title: "Nyttige tutorials"
-        desc: "N/A."
+        desc: "[Nyttige tutorials](ressurser/Nyttige-tutorials)"
         icon: fas fa-laptop
       - title: "Populærvitenskapelig litteratur"
         desc: "[Populærvitenskapelig litteratur](ressurser/Pop-litteratur)"
@@ -35,7 +35,7 @@ en: &DEFAULT_EN
         desc: "[Blogger](ressurser/Blogger)"
         icon: fas fa-blog
       - title: "Søkemotorer"
-        desc: "N/A"
+        desc: "[Søkemotorer](ressurser/Sookemotorer)"
         icon: fas fa-search  
 
   portfolio:
