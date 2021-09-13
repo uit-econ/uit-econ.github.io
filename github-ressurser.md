@@ -7,7 +7,7 @@
 * [Publisere](https://titlon.uit.no/datadumps/git-res/es/video/1.mp4)
 * [Konfigurere](https://titlon.uit.no/datadumps/git-res/es/video/2.mp4)
 * [Redigere](https://titlon.uit.no/datadumps/git-res/es/video/3.mp4)
-* [Legge til innhold](https://titlon.uit.no/datadumps/git-res/es/video/4.mov)
+* [Legge til innhold](https://titlon.uit.no/datadumps/git-res/es/video/4.mp4)
 * [Lage tabell](https://titlon.uit.no/datadumps/git-res/es/video/5.mp4)
 
 [Instruksjoner (pdf)](https://titlon.uit.no/datadumps/git-res/es/emneside.pdf)
