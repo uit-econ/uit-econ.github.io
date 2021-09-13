@@ -1,4 +1,4 @@
- {% include head.html %}
+ {% include ressurser-css.html %}
  
 # Github-ressurser
 
