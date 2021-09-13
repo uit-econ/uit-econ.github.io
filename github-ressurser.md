@@ -1,7 +1,7 @@
 
 {% include plain-page-css.html %}
 
-# Github-ressurser
+# Github-ressurser:
 <br><br><br>
 ## Emneside:
 * [Publisere](https://titlon.uit.no/datadumps/git-res/es/video/1.mov)
