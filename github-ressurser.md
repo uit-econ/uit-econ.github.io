@@ -21,5 +21,6 @@
 
 [Instruksjoner (pdf)](https://titlon.uit.no/datadumps/git-res/hs/hovedside.pdf)
 
-## [Githubkurs](https://titlon.uit.no/datadumps/git-res/kursgit.mp4)
-## [Kurs i digital CV](https://titlon.uit.no/datadumps/git-res/digicv.mp4)
+## Videokurs:
+* [Githubkurs](https://titlon.uit.no/datadumps/git-res/kursgit.mp4)
+* [Kurs i digital CV](https://titlon.uit.no/datadumps/git-res/digicv.mp4)
