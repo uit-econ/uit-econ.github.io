@@ -1,7 +1,7 @@
 # Github-ressurser
 
 ## Emneside:
-* [https://titlon.uit.no/datadumps/git-res/es/video/1.mov](Publisere)
+* [Publisere](https://titlon.uit.no/datadumps/git-res/es/video/1.mov)
 * [https://titlon.uit.no/datadumps/git-res/es/video/2.mov](Konfigurere)
 * [https://titlon.uit.no/datadumps/git-res/es/video/3.mov](Redigere)
 * [https://titlon.uit.no/datadumps/git-res/es/video/4.mov](Legge til innhold)
