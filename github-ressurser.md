@@ -1,5 +1,5 @@
 
-{% include ressurser-css2.html %}
+{% include plain-page-css.html %}
 
 # Github-ressurser
 <br><br><br>
