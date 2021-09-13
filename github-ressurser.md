@@ -1,5 +1,10 @@
 
- 
+<style>
+body{
+  justify-content: center;
+  }
+</style>
+
 # Github-ressurser
 <br><br><br>
 ## Emneside:
