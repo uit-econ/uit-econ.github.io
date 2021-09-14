@@ -4,6 +4,8 @@
 # Github-ressurser:
 <br><br><br>
 ## Emneside:
+
+Videoer:
 * [Publisere](https://titlon.uit.no/datadumps/git-res/es/video/1.mp4)
 * [Konfigurere](https://titlon.uit.no/datadumps/git-res/es/video/2.mp4)
 * [Redigere](https://titlon.uit.no/datadumps/git-res/es/video/3.mp4)
@@ -15,6 +17,8 @@
 
 
 ## Hovedside:
+
+Videoer:
 * [Legge inn nytt emne](https://titlon.uit.no/datadumps/git-res/hs/video/1.mp4)
 * [Lage lenke fra emne til ekstern side](https://titlon.uit.no/datadumps/git-res/hs/video/3.mp4)
 * [Lage en ny ressurs](https://titlon.uit.no/datadumps/git-res/hs/video/4.1.mp4)
