@@ -1,5 +1,5 @@
 {% include ressurser-css.html %}
-[Git og GitHub](https://titlon.uit.no/datadumps/git-res/kursgit.mp4){:target="_blank"} <br>  
+# Nyttige ressurser
 
-
-[Lag en digital CV](https://titlon.uit.no/datadumps/git-res/digicv.mp4){:target="_blank"}<br>
+- [Git og GitHub](https://titlon.uit.no/datadumps/git-res/kursgit.mp4){:target="_blank"}
+- [Lag en digital CV](https://titlon.uit.no/datadumps/git-res/digicv.mp4){:target="_blank"}
