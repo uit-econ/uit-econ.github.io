@@ -12,7 +12,8 @@ Videoer:
 * [Legge til innhold](https://titlon.uit.no/hht/git-res/es/video/4.mp4)
 * [Lage tabell](https://titlon.uit.no/hht/git-res/es/video/5.mp4)
 
-[Instruksjoner (pdf)](https://titlon.uit.no/hht/git-res/es/emneside.pdf)
+<a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a>
+[Instruksjoner (pdf)](https://titlon.uit.no/hht/git-res/es/emneside.pdf){:target="blank"}
 
 
 
@@ -26,7 +27,7 @@ Videoer:
 * [Lage en ny overskrift](https://titlon.uit.no/hht/git-res/hs/video/5.mp4)
 * [Endre header](https://titlon.uit.no/hht/git-res/hs/video/6.mp4)
 
-[Instruksjoner (pdf)](https://titlon.uit.no/hht/git-res/hs/hovedside.pdf)
+[Instruksjoner (pdf)](https://titlon.uit.no/hht/git-res/hs/hovedside.pdf){:target="blank"}
 
 ## Videokurs:
 * [Githubkurs](https://titlon.uit.no/hht/git-res/kursgit.mp4)
