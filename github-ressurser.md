@@ -12,7 +12,7 @@ Videoer:
 * [Legge til innhold](https://titlon.uit.no/hht/git-res/es/video/4.mp4)
 * [Lage tabell](https://titlon.uit.no/hht/git-res/es/video/5.mp4)
 
-<a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a>
+<a href="https://titlon.uit.no/hht/git-res/es/emneside.pdf" target="_blank">Instruksjoner (pdf)</a>
 [Instruksjoner (pdf)](https://titlon.uit.no/hht/git-res/es/emneside.pdf){:target="blank"}
 
 
