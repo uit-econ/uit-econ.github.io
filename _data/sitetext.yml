@@ -36,7 +36,10 @@ en: &DEFAULT_EN
         icon: fas fa-blog
       - title: "Søkemotorer"
         desc: "[Søkemotorer](ressurser/Sookemotorer)"
-        icon: fas fa-search  
+        icon: fas fa-search
+      - title: "Ansatte"
+        desc: "[Ressurser for ansatte](ressurser/ansatte)"
+        icon: work  
 
   portfolio:
     title: "Emner"
