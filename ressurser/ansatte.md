@@ -2,7 +2,9 @@
 {% include plain-page-css.html %}
 
 # Github-ressurser:
-<br><br><br>
+<br>
+## [Instruksjoner for å lage kursside](https://uit-econ.github.io/coursepage_template/)
+<br><br>
 ## Emneside:
 
 Videoer:
