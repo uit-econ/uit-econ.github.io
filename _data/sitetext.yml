@@ -39,7 +39,7 @@ en: &DEFAULT_EN
         icon: fas fa-search
       - title: "Ansatte"
         desc: "[Ressurser for ansatte](ressurser/ansatte)"
-        icon: work  
+        icon: fa fa-user-circle  
 
   portfolio:
     title: "Emner"
