@@ -23,21 +23,27 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Datakilder"
+        url: "ressurser/Datakilder"
         desc: "[Datakilder](ressurser/Datakilder)"
         icon: fas fa-database #find more at https://fontawesome.com/icons
       - title: "Nyttige tutorials"
+        url: 
         desc: "[Nyttige tutorials](ressurser/Nyttige-tutorials)"
         icon: fas fa-laptop
       - title: "Populærvitenskapelig litteratur"
+        url: 
         desc: "[Populærvitenskapelig litteratur](ressurser/Pop-litteratur)"
         icon: fas fa-book-reader
       - title: "Blogger"
+        url: 
         desc: "[Blogger](ressurser/Blogger)"
         icon: fas fa-blog
       - title: "Søkemotorer"
+        url: 
         desc: "[Søkemotorer](ressurser/Sookemotorer)"
         icon: fas fa-search
       - title: "Ansatte"
+        url: 
         desc: "[Ressurser for ansatte](ressurser/ansatte)"
         icon: fa fa-user-circle  
 
