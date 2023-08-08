@@ -1,4 +1,4 @@
-{% include ressurser-css.html %}
+{% include plain-page-css.html %}
 
 
 
